@@ -8,11 +8,11 @@ https://discordpy.readthedocs.io/en/latest/discord.html
 
 - Next, for this code to work you will need to have: 
 - java 13.0 pre-installed in your system
-- Lavalink.jar file (added in the repository)
+- set-up Lavalink (follow instructions from here: https://dsharpplus.github.io/articles/audio/lavalink/setup.html )
 
 - Lavalink requires Java 13.0 or higher to host a server.
 
-- to run lavalink, type the following in your command prompt:
+- don't forget to run lavalink every time before executing launcher.py, type the following in your command prompt (already mentioned in the setup link above):
 
     >java -jar Lavalink.jar
 
